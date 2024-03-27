@@ -1,0 +1,16 @@
+
+
+.div-1 {
+    background-color: cadetblue;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div-1 .div-1-unordered-list {
+  color: red;
+  font-size: medium;  
+}
+
+.p-1, .p-2 {
+    color: red;
+}
